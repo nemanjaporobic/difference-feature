@@ -1,0 +1,1290 @@
+{
+    "country_id": {
+        "type": "values updated",
+        "oldValue": 1,
+        "newValue": 3,
+        "var_type": "string"
+    },
+    "incorporation_year": {
+        "type": "values updated",
+        "oldValue": 2020,
+        "newValue": 2016,
+        "var_type": "string"
+    },
+    "producing_broker_company_id": {
+        "type": "values updated",
+        "oldValue": 12,
+        "newValue": 8,
+        "var_type": "string"
+    },
+    "expiry_date": {
+        "type": "values updated",
+        "oldValue": "2022-12-31",
+        "newValue": "2022-12-30",
+        "var_type": "date"
+    },
+    "time_from": {
+        "type": "values updated",
+        "oldValue": null,
+        "newValue": "10:00:00",
+        "var_type": "string"
+    },
+    "time_to": {
+        "type": "values updated",
+        "oldValue": null,
+        "newValue": "12:00:00",
+        "var_type": "string"
+    },
+    "currency_id": {
+        "type": "values updated",
+        "oldValue": 3,
+        "newValue": 2,
+        "var_type": "string"
+    },
+    "sales_year_1_from": {
+        "type": "values updated",
+        "oldValue": 2020,
+        "newValue": 2017,
+        "var_type": "string"
+    },
+    "sales_year_1_to": {
+        "type": "values updated",
+        "oldValue": 2021,
+        "newValue": 2018,
+        "var_type": "string"
+    },
+    "sales_year_1_amount": {
+        "type": "values updated",
+        "oldValue": null,
+        "newValue": "2017.00000",
+        "var_type": "number",
+        "year_from": 2016,
+        "year_to": 2017
+    },
+    "sales_year_2_from": {
+        "type": "values updated",
+        "oldValue": 2021,
+        "newValue": 2018,
+        "var_type": "string"
+    },
+    "sales_year_2_to": {
+        "type": "values updated",
+        "oldValue": 2022,
+        "newValue": 2019,
+        "var_type": "string"
+    },
+    "sales_year_2_amount": {
+        "type": "values updated",
+        "oldValue": null,
+        "newValue": "2018.00000",
+        "var_type": "number",
+        "year_from": 2017,
+        "year_to": 2018
+    },
+    "sales_year_3_from": {
+        "type": "values updated",
+        "oldValue": 2022,
+        "newValue": 2019,
+        "var_type": "string"
+    },
+    "sales_year_3_to": {
+        "type": "values updated",
+        "oldValue": 2023,
+        "newValue": 2020,
+        "var_type": "string"
+    },
+    "sales_year_3_amount": {
+        "type": "values updated",
+        "oldValue": null,
+        "newValue": "2019.00000",
+        "var_type": "number",
+        "year_from": 2018,
+        "year_to": 2019
+    },
+    "sales_year_4_from": {
+        "type": "values updated",
+        "oldValue": null,
+        "newValue": 2020,
+        "var_type": "string"
+    },
+    "sales_year_4_to": {
+        "type": "values updated",
+        "oldValue": null,
+        "newValue": 2021,
+        "var_type": "string"
+    },
+    "sales_year_4_amount": {
+        "type": "values updated",
+        "oldValue": null,
+        "newValue": "2020.00000",
+        "var_type": "number",
+        "year_from": 2019,
+        "year_to": 2020
+    },
+    "sales_year_5_from": {
+        "type": "values updated",
+        "oldValue": null,
+        "newValue": 2021,
+        "var_type": "string"
+    },
+    "sales_year_5_to": {
+        "type": "values updated",
+        "oldValue": null,
+        "newValue": 2022,
+        "var_type": "string"
+    },
+    "sales_year_5_amount": {
+        "type": "values updated",
+        "oldValue": "2020.00000",
+        "newValue": "2021.00000",
+        "var_type": "number",
+        "year_from": 2020,
+        "year_to": 2021
+    },
+    "sales_year_6_from": {
+        "type": "values updated",
+        "oldValue": null,
+        "newValue": 2022,
+        "var_type": "string"
+    },
+    "sales_year_6_to": {
+        "type": "values updated",
+        "oldValue": null,
+        "newValue": 2023,
+        "var_type": "string"
+    },
+    "sales_year_6_amount": {
+        "type": "values updated",
+        "oldValue": "2021.00000",
+        "newValue": "2022.00000",
+        "var_type": "number",
+        "year_from": 2021,
+        "year_to": 2022
+    },
+    "target_premium": {
+        "type": "values updated",
+        "oldValue": "1100000.00000",
+        "newValue": "75000.00000",
+        "var_type": "number"
+    },
+    "commodity_description": {
+        "type": "values updated",
+        "oldValue": "test commodity description",
+        "newValue": "test description",
+        "var_type": "string"
+    },
+    "surplus_line_broker_company": {
+        "type": "values updated",
+        "oldValue": "Company INC",
+        "newValue": "Company Test INC",
+        "var_type": "string"
+    },
+    "surplus_line_broker": {
+        "type": "values updated",
+        "oldValue": "Christian Henderson",
+        "newValue": "Christian H",
+        "var_type": "string"
+    },
+    "surplus_line_domicile_id": {
+        "type": "values updated",
+        "oldValue": 1,
+        "newValue": 3,
+        "var_type": "string"
+    },
+    "surplus_line_license_number": {
+        "type": "values updated",
+        "oldValue": "LCE4324",
+        "newValue": "LLE4324",
+        "var_type": "string"
+    },
+    "incoming_transit_count": {
+        "type": "values updated",
+        "oldValue": 3,
+        "newValue": 2,
+        "var_type": "string"
+    },
+    "incoming_transits": {
+        "total_annual_value": {
+            "oldValue": "250000.00000",
+            "newValue": "250000.00000"
+        },
+        "basis_of_valuation": {
+            "oldValue": "Cost, Insurance and freight plus 10% (plus duty if declared)",
+            "newValue": "Cost, Insurance and freight plus 10% (plus duty if declared)"
+        },
+        "type": "values updated",
+        "total_transits": [
+            {
+                "oldValue": {
+                    "id": 9,
+                    "created_at": "2022-02-01T12:02:56.000000Z",
+                    "updated_at": "2022-02-01T12:02:56.000000Z",
+                    "morphable_id": 2,
+                    "morphable_type": "policy",
+                    "type": "incoming",
+                    "insurance_type_id": 6,
+                    "commodity_id": 3,
+                    "annual_value": 150000,
+                    "contingent_coverage": true,
+                    "uuid": "a468c8e4-b4d2-4f3a-9bda-06f68ef0c9f1",
+                    "commodity": {
+                        "id": 3,
+                        "created_at": null,
+                        "updated_at": null,
+                        "deleted_at": null,
+                        "name": "Boats As Cargo",
+                        "requires_review_binder_parameters": 1,
+                        "requires_review_stock": 1,
+                        "requires_review_transit": 1
+                    },
+                    "containers": [
+                        {
+                            "id": 14,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 9,
+                            "average_value": 5100
+                        },
+                        {
+                            "id": 15,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 9,
+                            "average_value": 3200
+                        }
+                    ],
+                    "conveyances": [
+                        {
+                            "id": 13,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 9,
+                            "conveyance_id": 4,
+                            "max_value": 150000,
+                            "average_value": 75000,
+                            "utilisation": 100,
+                            "conveyance": {
+                                "id": 4,
+                                "created_at": null,
+                                "updated_at": null,
+                                "name": "FedEx/UPS etc Common Carrier"
+                            }
+                        }
+                    ],
+                    "insurance_type": {
+                        "id": 6,
+                        "created_at": null,
+                        "updated_at": null,
+                        "name": "Ocean Worldwide",
+                        "contingent": 1
+                    },
+                    "packing": [
+                        {
+                            "id": 13,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 9,
+                            "packing_id": 3,
+                            "utilisation": 25,
+                            "packing": {
+                                "id": 3,
+                                "created_at": null,
+                                "updated_at": null,
+                                "deleted_at": null,
+                                "name": "Bulk"
+                            }
+                        },
+                        {
+                            "id": 14,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 9,
+                            "packing_id": 5,
+                            "utilisation": 75,
+                            "packing": {
+                                "id": 5,
+                                "created_at": null,
+                                "updated_at": null,
+                                "deleted_at": null,
+                                "name": "Bogged"
+                            }
+                        }
+                    ],
+                    "shipping": [
+                        {
+                            "id": 14,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 9,
+                            "country_id": 3,
+                            "utilisation": 50,
+                            "country": {
+                                "id": 3,
+                                "created_at": null,
+                                "updated_at": null,
+                                "iso_code": "GB",
+                                "name": "United Kingdom",
+                                "region": 0
+                            }
+                        },
+                        {
+                            "id": 15,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 9,
+                            "country_id": 6,
+                            "utilisation": 50,
+                            "country": {
+                                "id": 6,
+                                "created_at": null,
+                                "updated_at": null,
+                                "iso_code": null,
+                                "name": "Asia Pacific",
+                                "region": 1
+                            }
+                        }
+                    ]
+                },
+                "newValue": {
+                    "id": 12,
+                    "created_at": "2022-02-01T12:03:57.000000Z",
+                    "updated_at": "2022-02-01T12:03:57.000000Z",
+                    "morphable_id": 6,
+                    "morphable_type": "submission",
+                    "type": "incoming",
+                    "insurance_type_id": 6,
+                    "commodity_id": 3,
+                    "annual_value": 150000,
+                    "contingent_coverage": true,
+                    "uuid": "a468c8e4-b4d2-4f3a-9bda-06f68ef0c9f1",
+                    "commodity": {
+                        "id": 3,
+                        "created_at": null,
+                        "updated_at": null,
+                        "deleted_at": null,
+                        "name": "Boats As Cargo",
+                        "requires_review_binder_parameters": 1,
+                        "requires_review_stock": 1,
+                        "requires_review_transit": 1
+                    },
+                    "containers": [
+                        {
+                            "id": 20,
+                            "created_at": "2022-02-01T12:03:57.000000Z",
+                            "updated_at": "2022-02-01T12:03:57.000000Z",
+                            "transit_id": 12,
+                            "average_value": 5100
+                        },
+                        {
+                            "id": 21,
+                            "created_at": "2022-02-01T12:03:57.000000Z",
+                            "updated_at": "2022-02-01T12:03:57.000000Z",
+                            "transit_id": 12,
+                            "average_value": 3200
+                        }
+                    ],
+                    "conveyances": [
+                        {
+                            "id": 19,
+                            "created_at": "2022-02-01T12:03:57.000000Z",
+                            "updated_at": "2022-02-01T12:03:57.000000Z",
+                            "transit_id": 12,
+                            "conveyance_id": 4,
+                            "max_value": 150000,
+                            "average_value": 75000,
+                            "utilisation": 100,
+                            "conveyance": {
+                                "id": 4,
+                                "created_at": null,
+                                "updated_at": null,
+                                "name": "FedEx/UPS etc Common Carrier"
+                            }
+                        }
+                    ],
+                    "insurance_type": {
+                        "id": 6,
+                        "created_at": null,
+                        "updated_at": null,
+                        "name": "Ocean Worldwide",
+                        "contingent": 1
+                    },
+                    "packing": [
+                        {
+                            "id": 19,
+                            "created_at": "2022-02-01T12:03:57.000000Z",
+                            "updated_at": "2022-02-01T12:03:57.000000Z",
+                            "transit_id": 12,
+                            "packing_id": 3,
+                            "utilisation": 25,
+                            "packing": {
+                                "id": 3,
+                                "created_at": null,
+                                "updated_at": null,
+                                "deleted_at": null,
+                                "name": "Bulk"
+                            }
+                        },
+                        {
+                            "id": 20,
+                            "created_at": "2022-02-01T12:03:57.000000Z",
+                            "updated_at": "2022-02-01T12:03:57.000000Z",
+                            "transit_id": 12,
+                            "packing_id": 5,
+                            "utilisation": 75,
+                            "packing": {
+                                "id": 5,
+                                "created_at": null,
+                                "updated_at": null,
+                                "deleted_at": null,
+                                "name": "Bogged"
+                            }
+                        }
+                    ],
+                    "shipping": [
+                        {
+                            "id": 20,
+                            "created_at": "2022-02-01T12:03:57.000000Z",
+                            "updated_at": "2022-02-01T12:03:57.000000Z",
+                            "transit_id": 12,
+                            "country_id": 3,
+                            "utilisation": 50,
+                            "country": {
+                                "id": 3,
+                                "created_at": null,
+                                "updated_at": null,
+                                "iso_code": "GB",
+                                "name": "United Kingdom",
+                                "region": 0
+                            }
+                        },
+                        {
+                            "id": 21,
+                            "created_at": "2022-02-01T12:03:57.000000Z",
+                            "updated_at": "2022-02-01T12:03:57.000000Z",
+                            "transit_id": 12,
+                            "country_id": 6,
+                            "utilisation": 50,
+                            "country": {
+                                "id": 6,
+                                "created_at": null,
+                                "updated_at": null,
+                                "iso_code": null,
+                                "name": "Asia Pacific",
+                                "region": 1
+                            }
+                        }
+                    ]
+                },
+                "values_updated": []
+            },
+            {
+                "oldValue": {
+                    "id": 10,
+                    "created_at": "2022-02-01T12:02:56.000000Z",
+                    "updated_at": "2022-02-01T12:02:56.000000Z",
+                    "morphable_id": 2,
+                    "morphable_type": "policy",
+                    "type": "incoming",
+                    "insurance_type_id": 4,
+                    "commodity_id": 6,
+                    "annual_value": 50000,
+                    "contingent_coverage": false,
+                    "uuid": "8c35d77c-7f6b-49d1-b55f-600561c15631",
+                    "commodity": {
+                        "id": 6,
+                        "created_at": null,
+                        "updated_at": null,
+                        "deleted_at": null,
+                        "name": "Cement",
+                        "requires_review_binder_parameters": 1,
+                        "requires_review_stock": 1,
+                        "requires_review_transit": 1
+                    },
+                    "containers": [
+                        {
+                            "id": 16,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 10,
+                            "average_value": 50000
+                        }
+                    ],
+                    "conveyances": [
+                        {
+                            "id": 14,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 10,
+                            "conveyance_id": 4,
+                            "max_value": 50000,
+                            "average_value": 25000,
+                            "utilisation": 45,
+                            "conveyance": {
+                                "id": 4,
+                                "created_at": null,
+                                "updated_at": null,
+                                "name": "FedEx/UPS etc Common Carrier"
+                            }
+                        },
+                        {
+                            "id": 15,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 10,
+                            "conveyance_id": 1,
+                            "max_value": 25000,
+                            "average_value": 12500,
+                            "utilisation": 55,
+                            "conveyance": {
+                                "id": 1,
+                                "created_at": null,
+                                "updated_at": null,
+                                "name": "Air"
+                            }
+                        }
+                    ],
+                    "insurance_type": {
+                        "id": 4,
+                        "created_at": null,
+                        "updated_at": null,
+                        "name": "Air Worldwide",
+                        "contingent": 0
+                    },
+                    "packing": [
+                        {
+                            "id": 15,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 10,
+                            "packing_id": 5,
+                            "utilisation": 100,
+                            "packing": {
+                                "id": 5,
+                                "created_at": null,
+                                "updated_at": null,
+                                "deleted_at": null,
+                                "name": "Bogged"
+                            }
+                        }
+                    ],
+                    "shipping": [
+                        {
+                            "id": 16,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 10,
+                            "country_id": 3,
+                            "utilisation": 100,
+                            "country": {
+                                "id": 3,
+                                "created_at": null,
+                                "updated_at": null,
+                                "iso_code": "GB",
+                                "name": "United Kingdom",
+                                "region": 0
+                            }
+                        }
+                    ]
+                },
+                "values_updated": [
+                    "annual_value",
+                    "commodity_id",
+                    "contingent_coverage",
+                    "insurance_type_id",
+                    "conveyances",
+                    "packing",
+                    "shipping",
+                    "containers"
+                ]
+            },
+            {
+                "oldValue": {
+                    "id": 11,
+                    "created_at": "2022-02-01T12:02:56.000000Z",
+                    "updated_at": "2022-02-01T12:02:56.000000Z",
+                    "morphable_id": 2,
+                    "morphable_type": "policy",
+                    "type": "incoming",
+                    "insurance_type_id": 2,
+                    "commodity_id": 5,
+                    "annual_value": 50000,
+                    "contingent_coverage": false,
+                    "uuid": "281acb8d-bdde-45c7-b1e6-e4212cc478fd",
+                    "commodity": {
+                        "id": 5,
+                        "created_at": null,
+                        "updated_at": null,
+                        "deleted_at": null,
+                        "name": "Carpets And Rugs",
+                        "requires_review_binder_parameters": 0,
+                        "requires_review_stock": 0,
+                        "requires_review_transit": 0
+                    },
+                    "containers": [
+                        {
+                            "id": 17,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 11,
+                            "average_value": 20000
+                        },
+                        {
+                            "id": 18,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 11,
+                            "average_value": 10000
+                        },
+                        {
+                            "id": 19,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 11,
+                            "average_value": 50000
+                        }
+                    ],
+                    "conveyances": [
+                        {
+                            "id": 16,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 11,
+                            "conveyance_id": 1,
+                            "max_value": 25000,
+                            "average_value": 12500,
+                            "utilisation": 25,
+                            "conveyance": {
+                                "id": 1,
+                                "created_at": null,
+                                "updated_at": null,
+                                "name": "Air"
+                            }
+                        },
+                        {
+                            "id": 17,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 11,
+                            "conveyance_id": 2,
+                            "max_value": 20000,
+                            "average_value": 10000,
+                            "utilisation": 25,
+                            "conveyance": {
+                                "id": 2,
+                                "created_at": null,
+                                "updated_at": null,
+                                "name": "Truck/Rail"
+                            }
+                        },
+                        {
+                            "id": 18,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 11,
+                            "conveyance_id": 4,
+                            "max_value": 30000,
+                            "average_value": 15000,
+                            "utilisation": 50,
+                            "conveyance": {
+                                "id": 4,
+                                "created_at": null,
+                                "updated_at": null,
+                                "name": "FedEx/UPS etc Common Carrier"
+                            }
+                        }
+                    ],
+                    "insurance_type": {
+                        "id": 2,
+                        "created_at": null,
+                        "updated_at": null,
+                        "name": "Domestic Inland Transit",
+                        "contingent": 0
+                    },
+                    "packing": [
+                        {
+                            "id": 16,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 11,
+                            "packing_id": 6,
+                            "utilisation": 10,
+                            "packing": {
+                                "id": 6,
+                                "created_at": null,
+                                "updated_at": null,
+                                "deleted_at": null,
+                                "name": "Other"
+                            }
+                        },
+                        {
+                            "id": 17,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 11,
+                            "packing_id": 5,
+                            "utilisation": 65,
+                            "packing": {
+                                "id": 5,
+                                "created_at": null,
+                                "updated_at": null,
+                                "deleted_at": null,
+                                "name": "Bogged"
+                            }
+                        },
+                        {
+                            "id": 18,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 11,
+                            "packing_id": 2,
+                            "utilisation": 25,
+                            "packing": {
+                                "id": 2,
+                                "created_at": null,
+                                "updated_at": null,
+                                "deleted_at": null,
+                                "name": "LCL"
+                            }
+                        }
+                    ],
+                    "shipping": [
+                        {
+                            "id": 17,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 11,
+                            "country_id": 1,
+                            "utilisation": 30,
+                            "country": {
+                                "id": 1,
+                                "created_at": null,
+                                "updated_at": null,
+                                "iso_code": "US",
+                                "name": "United States of America",
+                                "region": 0
+                            }
+                        },
+                        {
+                            "id": 18,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 11,
+                            "country_id": 6,
+                            "utilisation": 30,
+                            "country": {
+                                "id": 6,
+                                "created_at": null,
+                                "updated_at": null,
+                                "iso_code": null,
+                                "name": "Asia Pacific",
+                                "region": 1
+                            }
+                        },
+                        {
+                            "id": 19,
+                            "created_at": "2022-02-01T12:02:56.000000Z",
+                            "updated_at": "2022-02-01T12:02:56.000000Z",
+                            "transit_id": 11,
+                            "country_id": 4,
+                            "utilisation": 40,
+                            "country": {
+                                "id": 4,
+                                "created_at": null,
+                                "updated_at": null,
+                                "iso_code": null,
+                                "name": "Europe",
+                                "region": 1
+                            }
+                        }
+                    ]
+                },
+                "newValue": {
+                    "id": 14,
+                    "created_at": "2022-02-01T12:03:57.000000Z",
+                    "updated_at": "2022-02-01T12:03:57.000000Z",
+                    "morphable_id": 6,
+                    "morphable_type": "submission",
+                    "type": "incoming",
+                    "insurance_type_id": 2,
+                    "commodity_id": 5,
+                    "annual_value": 50000,
+                    "contingent_coverage": false,
+                    "uuid": "281acb8d-bdde-45c7-b1e6-e4212cc478fd",
+                    "commodity": {
+                        "id": 5,
+                        "created_at": null,
+                        "updated_at": null,
+                        "deleted_at": null,
+                        "name": "Carpets And Rugs",
+                        "requires_review_binder_parameters": 0,
+                        "requires_review_stock": 0,
+                        "requires_review_transit": 0
+                    },
+                    "containers": [
+                        {
+                            "id": 26,
+                            "created_at": "2022-02-01T12:26:40.000000Z",
+                            "updated_at": "2022-02-01T12:26:40.000000Z",
+                            "transit_id": 14,
+                            "average_value": 20000
+                        },
+                        {
+                            "id": 27,
+                            "created_at": "2022-02-01T12:26:40.000000Z",
+                            "updated_at": "2022-02-01T12:26:40.000000Z",
+                            "transit_id": 14,
+                            "average_value": 50000
+                        }
+                    ],
+                    "conveyances": [
+                        {
+                            "id": 25,
+                            "created_at": "2022-02-01T12:26:40.000000Z",
+                            "updated_at": "2022-02-01T12:26:40.000000Z",
+                            "transit_id": 14,
+                            "conveyance_id": 1,
+                            "max_value": 25000,
+                            "average_value": 12500,
+                            "utilisation": 25,
+                            "conveyance": {
+                                "id": 1,
+                                "created_at": null,
+                                "updated_at": null,
+                                "name": "Air"
+                            }
+                        },
+                        {
+                            "id": 26,
+                            "created_at": "2022-02-01T12:26:40.000000Z",
+                            "updated_at": "2022-02-01T12:26:40.000000Z",
+                            "transit_id": 14,
+                            "conveyance_id": 4,
+                            "max_value": 25000,
+                            "average_value": 15000,
+                            "utilisation": 75,
+                            "conveyance": {
+                                "id": 4,
+                                "created_at": null,
+                                "updated_at": null,
+                                "name": "FedEx/UPS etc Common Carrier"
+                            }
+                        }
+                    ],
+                    "insurance_type": {
+                        "id": 2,
+                        "created_at": null,
+                        "updated_at": null,
+                        "name": "Domestic Inland Transit",
+                        "contingent": 0
+                    },
+                    "packing": [
+                        {
+                            "id": 25,
+                            "created_at": "2022-02-01T12:26:40.000000Z",
+                            "updated_at": "2022-02-01T12:26:40.000000Z",
+                            "transit_id": 14,
+                            "packing_id": 6,
+                            "utilisation": 10,
+                            "packing": {
+                                "id": 6,
+                                "created_at": null,
+                                "updated_at": null,
+                                "deleted_at": null,
+                                "name": "Other"
+                            }
+                        },
+                        {
+                            "id": 26,
+                            "created_at": "2022-02-01T12:26:40.000000Z",
+                            "updated_at": "2022-02-01T12:26:40.000000Z",
+                            "transit_id": 14,
+                            "packing_id": 5,
+                            "utilisation": 65,
+                            "packing": {
+                                "id": 5,
+                                "created_at": null,
+                                "updated_at": null,
+                                "deleted_at": null,
+                                "name": "Bogged"
+                            }
+                        },
+                        {
+                            "id": 27,
+                            "created_at": "2022-02-01T12:26:40.000000Z",
+                            "updated_at": "2022-02-01T12:26:40.000000Z",
+                            "transit_id": 14,
+                            "packing_id": 2,
+                            "utilisation": 25,
+                            "packing": {
+                                "id": 2,
+                                "created_at": null,
+                                "updated_at": null,
+                                "deleted_at": null,
+                                "name": "LCL"
+                            }
+                        }
+                    ],
+                    "shipping": [
+                        {
+                            "id": 26,
+                            "created_at": "2022-02-01T12:26:40.000000Z",
+                            "updated_at": "2022-02-01T12:26:40.000000Z",
+                            "transit_id": 14,
+                            "country_id": 1,
+                            "utilisation": 30,
+                            "country": {
+                                "id": 1,
+                                "created_at": null,
+                                "updated_at": null,
+                                "iso_code": "US",
+                                "name": "United States of America",
+                                "region": 0
+                            }
+                        },
+                        {
+                            "id": 27,
+                            "created_at": "2022-02-01T12:26:40.000000Z",
+                            "updated_at": "2022-02-01T12:26:40.000000Z",
+                            "transit_id": 14,
+                            "country_id": 3,
+                            "utilisation": 70,
+                            "country": {
+                                "id": 3,
+                                "created_at": null,
+                                "updated_at": null,
+                                "iso_code": "GB",
+                                "name": "United Kingdom",
+                                "region": 0
+                            }
+                        }
+                    ]
+                },
+                "values_updated": [
+                    "conveyances",
+                    "shipping",
+                    "containers"
+                ]
+            }
+        ],
+        "values_updated": []
+    },
+    "losses_year_3": {
+        "newValue": {
+            "id": 66,
+            "created_at": "2022-02-01T12:28:48.000000Z",
+            "updated_at": "2022-02-01T12:28:48.000000Z",
+            "submission_id": 6,
+            "from": 2019,
+            "to": 2020,
+            "paid": "2019.00000",
+            "fees": "2019.00000",
+            "outstanding": "2019.00000",
+            "advised": "2019.00000",
+            "count": 19,
+            "total_loss_value": 8076
+        },
+        "values_updated": [
+            "paid",
+            "outstanding",
+            "fees",
+            "advised",
+            "count"
+        ],
+        "type": "values updated"
+    },
+    "losses_year_4": {
+        "newValue": {
+            "id": 67,
+            "created_at": "2022-02-01T12:28:48.000000Z",
+            "updated_at": "2022-02-01T12:28:48.000000Z",
+            "submission_id": 6,
+            "from": 2018,
+            "to": 2019,
+            "paid": "2018.00000",
+            "fees": "2018.00000",
+            "outstanding": "2018.00000",
+            "advised": "2018.00000",
+            "count": 18,
+            "total_loss_value": 8072
+        },
+        "values_updated": [
+            "paid",
+            "outstanding",
+            "fees",
+            "advised",
+            "count"
+        ],
+        "type": "values updated"
+    },
+    "losses_year_5": {
+        "newValue": {
+            "id": 68,
+            "created_at": "2022-02-01T12:28:48.000000Z",
+            "updated_at": "2022-02-01T12:28:48.000000Z",
+            "submission_id": 6,
+            "from": 2017,
+            "to": 2018,
+            "paid": "2017.00000",
+            "fees": "2017.00000",
+            "outstanding": "2017.00000",
+            "advised": "2017.00000",
+            "count": 17,
+            "total_loss_value": 8068
+        },
+        "values_updated": [
+            "paid",
+            "outstanding",
+            "fees",
+            "advised",
+            "count"
+        ],
+        "type": "values updated"
+    },
+    "operations": {
+        "type": "values updated",
+        "oldValue": "Distributor, Freight Forwarder, Trader, Warehouse",
+        "newValue": "Distributor, Manufacturer, Trader",
+        "var_type": "string"
+    },
+    "limits": {
+        "type": "values updated",
+        "total_sublimits": [
+            {
+                "oldValue": {
+                    "id": 31,
+                    "created_at": "2022-02-01T12:02:56.000000Z",
+                    "updated_at": "2022-02-01T12:02:56.000000Z",
+                    "morphable_type": "policy",
+                    "morphable_id": 2,
+                    "exposure_type": "storage",
+                    "contract_type": "limit",
+                    "sublimit_type": "commodity",
+                    "sublimit_description": "test comm",
+                    "sublimit_amount": "1001",
+                    "deductible_type": null,
+                    "deductible_flat_amount": null,
+                    "deductible_percentage": null,
+                    "deductible_basis_value": null,
+                    "subject_to_minimum": null,
+                    "uuid": "65edc300-529c-4dc2-ae5d-3901306dd2cb"
+                },
+                "newValue": {
+                    "id": 89,
+                    "created_at": "2022-02-01T12:28:48.000000Z",
+                    "updated_at": "2022-02-01T12:28:48.000000Z",
+                    "morphable_type": "submission",
+                    "morphable_id": 6,
+                    "exposure_type": "storage",
+                    "contract_type": "limit",
+                    "sublimit_type": "commodity",
+                    "sublimit_description": "test comm",
+                    "sublimit_amount": "1001",
+                    "deductible_type": null,
+                    "deductible_flat_amount": null,
+                    "deductible_percentage": null,
+                    "deductible_basis_value": null,
+                    "subject_to_minimum": null,
+                    "uuid": "65edc300-529c-4dc2-ae5d-3901306dd2cb"
+                },
+                "values_updated": []
+            },
+            {
+                "oldValue": {
+                    "id": 32,
+                    "created_at": "2022-02-01T12:02:56.000000Z",
+                    "updated_at": "2022-02-01T12:02:56.000000Z",
+                    "morphable_type": "policy",
+                    "morphable_id": 2,
+                    "exposure_type": "transit",
+                    "contract_type": "limit",
+                    "sublimit_type": "conveyance",
+                    "sublimit_description": "Truck/Rail, Barge, FedEx/UPS etc Common Carrier",
+                    "sublimit_amount": "1002",
+                    "deductible_type": null,
+                    "deductible_flat_amount": null,
+                    "deductible_percentage": null,
+                    "deductible_basis_value": null,
+                    "subject_to_minimum": null,
+                    "uuid": "1db3d763-3979-4853-a519-30034970e3c7"
+                },
+                "values_updated": [
+                    "deductible_basis_value",
+                    "deductible_flat_amount",
+                    "deductible_percentage",
+                    "deductible_type",
+                    "exposure_type",
+                    "subject_to_minimum",
+                    "sublimit_amount",
+                    "sublimit_description",
+                    "sublimit_type"
+                ]
+            },
+            {
+                "oldValue": {
+                    "id": 33,
+                    "created_at": "2022-02-01T12:02:56.000000Z",
+                    "updated_at": "2022-02-01T12:02:56.000000Z",
+                    "morphable_type": "policy",
+                    "morphable_id": 2,
+                    "exposure_type": "transit",
+                    "contract_type": "limit",
+                    "sublimit_type": "transit",
+                    "sublimit_description": "Domestic Inland Transit, Air Worldwide",
+                    "sublimit_amount": "2000",
+                    "deductible_type": null,
+                    "deductible_flat_amount": null,
+                    "deductible_percentage": null,
+                    "deductible_basis_value": null,
+                    "subject_to_minimum": null,
+                    "uuid": "3e08463e-09b2-4a0d-8bfc-f7395c6fb24d"
+                },
+                "newValue": {
+                    "id": 90,
+                    "created_at": "2022-02-01T12:28:48.000000Z",
+                    "updated_at": "2022-02-01T12:28:48.000000Z",
+                    "morphable_type": "submission",
+                    "morphable_id": 6,
+                    "exposure_type": "transit",
+                    "contract_type": "limit",
+                    "sublimit_type": "conveyance",
+                    "sublimit_description": "Truck/Rail, Barge",
+                    "sublimit_amount": "2000",
+                    "deductible_type": null,
+                    "deductible_flat_amount": null,
+                    "deductible_percentage": null,
+                    "deductible_basis_value": null,
+                    "subject_to_minimum": null,
+                    "uuid": "3e08463e-09b2-4a0d-8bfc-f7395c6fb24d"
+                },
+                "values_updated": [
+                    "sublimit_description",
+                    "sublimit_type"
+                ]
+            }
+        ],
+        "values_updated": [],
+        "sublimit_type": "limits"
+    },
+    "deductibles": {
+        "type": "values updated",
+        "total_sublimits": [
+            {
+                "oldValue": {
+                    "id": 34,
+                    "created_at": "2022-02-01T12:02:56.000000Z",
+                    "updated_at": "2022-02-01T12:02:56.000000Z",
+                    "morphable_type": "policy",
+                    "morphable_id": 2,
+                    "exposure_type": "transit",
+                    "contract_type": "deductible",
+                    "sublimit_type": "conveyance",
+                    "sublimit_description": "Truck/Rail, Barge",
+                    "sublimit_amount": null,
+                    "deductible_type": "flat deductible",
+                    "deductible_flat_amount": "10000.00000",
+                    "deductible_percentage": null,
+                    "deductible_basis_value": null,
+                    "subject_to_minimum": null,
+                    "uuid": "83b99f77-e08a-409a-9bf5-7b878036e650"
+                },
+                "values_updated": [
+                    "deductible_basis_value",
+                    "deductible_flat_amount",
+                    "deductible_percentage",
+                    "deductible_type",
+                    "exposure_type",
+                    "subject_to_minimum",
+                    "sublimit_amount",
+                    "sublimit_description",
+                    "sublimit_type"
+                ]
+            },
+            {
+                "oldValue": {
+                    "id": 35,
+                    "created_at": "2022-02-01T12:02:56.000000Z",
+                    "updated_at": "2022-02-01T12:02:56.000000Z",
+                    "morphable_type": "policy",
+                    "morphable_id": 2,
+                    "exposure_type": "transit",
+                    "contract_type": "deductible",
+                    "sublimit_type": "transit",
+                    "sublimit_description": "Domestic Inland Transit, Ocean Worldwide, Air Worldwide",
+                    "sublimit_amount": null,
+                    "deductible_type": "percent deductible",
+                    "deductible_flat_amount": null,
+                    "deductible_percentage": "20.0000",
+                    "deductible_basis_value": "Loss value",
+                    "subject_to_minimum": "100000.00000",
+                    "uuid": "f92e9587-f704-4e72-8f26-970b3f60be0d"
+                },
+                "newValue": {
+                    "id": 91,
+                    "created_at": "2022-02-01T12:28:48.000000Z",
+                    "updated_at": "2022-02-01T12:28:48.000000Z",
+                    "morphable_type": "submission",
+                    "morphable_id": 6,
+                    "exposure_type": "transit",
+                    "contract_type": "deductible",
+                    "sublimit_type": "transit",
+                    "sublimit_description": "Domestic Inland Transit, Ocean Worldwide, Air Worldwide",
+                    "sublimit_amount": null,
+                    "deductible_type": "percent deductible",
+                    "deductible_flat_amount": null,
+                    "deductible_percentage": "20.0000",
+                    "deductible_basis_value": "Loss value",
+                    "subject_to_minimum": "100000.00000",
+                    "uuid": "f92e9587-f704-4e72-8f26-970b3f60be0d"
+                },
+                "values_updated": []
+            },
+            {
+                "oldValue": {
+                    "id": 36,
+                    "created_at": "2022-02-01T12:02:56.000000Z",
+                    "updated_at": "2022-02-01T12:02:56.000000Z",
+                    "morphable_type": "policy",
+                    "morphable_id": 2,
+                    "exposure_type": "transit",
+                    "contract_type": "deductible",
+                    "sublimit_type": "conveyance",
+                    "sublimit_description": "FedEx/UPS etc Common Carrier, Barge",
+                    "sublimit_amount": null,
+                    "deductible_type": "percent deductible",
+                    "deductible_flat_amount": null,
+                    "deductible_percentage": "65.0000",
+                    "deductible_basis_value": "Sum insured",
+                    "subject_to_minimum": "20000.00000",
+                    "uuid": "c9c64b0e-e104-4855-9163-4fb0bc77b20d"
+                },
+                "newValue": {
+                    "id": 92,
+                    "created_at": "2022-02-01T12:28:48.000000Z",
+                    "updated_at": "2022-02-01T12:28:48.000000Z",
+                    "morphable_type": "submission",
+                    "morphable_id": 6,
+                    "exposure_type": "transit",
+                    "contract_type": "deductible",
+                    "sublimit_type": "conveyance",
+                    "sublimit_description": "FedEx/UPS etc Common Carrier, Barge",
+                    "sublimit_amount": null,
+                    "deductible_type": "flat deductible",
+                    "deductible_flat_amount": "12000.00000",
+                    "deductible_percentage": null,
+                    "deductible_basis_value": null,
+                    "subject_to_minimum": null,
+                    "uuid": "c9c64b0e-e104-4855-9163-4fb0bc77b20d"
+                },
+                "values_updated": [
+                    "deductible_basis_value",
+                    "deductible_flat_amount",
+                    "deductible_percentage",
+                    "deductible_type",
+                    "subject_to_minimum"
+                ]
+            }
+        ],
+        "values_updated": [],
+        "sublimit_type": "deductibles"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "insured_name": {
+        "type": "values updated",
+        "oldValue": "Test difference new",
+        "newValue": "Just name changed",
+        "var_type": "string"
+    }
+}

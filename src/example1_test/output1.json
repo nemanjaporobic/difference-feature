@@ -1,0 +1,317 @@
+{
+    "incorporation_year": {
+        "type": "values updated",
+        "oldValue": 2022,
+        "newValue": 2021,
+        "var_type": "string"
+    },
+    "producing_broker_company_id": {
+        "type": "values updated",
+        "oldValue": 8,
+        "newValue": 10,
+        "var_type": "string"
+    },
+    "sales_year_1_from": {
+        "type": "values updated",
+        "oldValue": 2022,
+        "newValue": 2021,
+        "var_type": "string"
+    },
+    "sales_year_1_to": {
+        "type": "values updated",
+        "oldValue": 2023,
+        "newValue": 2022,
+        "var_type": "string"
+    },
+    "sales_year_1_amount": {
+        "type": "values updated",
+        "oldValue": null,
+        "newValue": "43423.00000",
+        "var_type": "number",
+        "year_from": 2021,
+        "year_to": 2022
+    },
+    "sales_year_2_from": {
+        "type": "values updated",
+        "oldValue": null,
+        "newValue": 2022,
+        "var_type": "string"
+    },
+    "sales_year_2_to": {
+        "type": "values updated",
+        "oldValue": null,
+        "newValue": 2023,
+        "var_type": "string"
+    },
+    "sales_year_2_amount": {
+        "type": "values updated",
+        "oldValue": "20211.00000",
+        "newValue": "20211.00000",
+        "var_type": "number",
+        "year_from": 2022,
+        "year_to": 2023
+    },
+    "brokerage": {
+        "type": "values updated",
+        "oldValue": "27.5000",
+        "newValue": "27.0000",
+        "var_type": "percent"
+    },
+    "incoming_transits": {
+        "total_annual_value": {
+            "oldValue": "100000.00000",
+            "newValue": "100000.00000"
+        },
+        "basis_of_valuation": {
+            "oldValue": "London Metal Exchange value on date of loss plus 20% or as agreed",
+            "newValue": "London Metal Exchange value on date of loss plus 20% or as agreed"
+        },
+        "type": "values updated",
+        "total_transits": [
+            {
+                "oldValue": {
+                    "id": 4,
+                    "created_at": "2022-01-31T14:28:00.000000Z",
+                    "updated_at": "2022-01-31T14:28:00.000000Z",
+                    "morphable_id": 1,
+                    "morphable_type": "policy",
+                    "type": "incoming",
+                    "insurance_type_id": 2,
+                    "commodity_id": 4,
+                    "annual_value": 100000,
+                    "contingent_coverage": false,
+                    "uuid": "c1c61bc1-46b1-4967-a10d-4d701805d653",
+                    "commodity": {
+                        "id": 4,
+                        "created_at": null,
+                        "updated_at": null,
+                        "deleted_at": null,
+                        "name": "Building Materials & DIY Goods",
+                        "requires_review_binder_parameters": 0,
+                        "requires_review_stock": 0,
+                        "requires_review_transit": 0
+                    },
+                    "containers": [
+                        {
+                            "id": 4,
+                            "created_at": "2022-01-31T14:28:00.000000Z",
+                            "updated_at": "2022-01-31T14:28:00.000000Z",
+                            "transit_id": 4,
+                            "average_value": 4000
+                        }
+                    ],
+                    "conveyances": [
+                        {
+                            "id": 4,
+                            "created_at": "2022-01-31T14:28:00.000000Z",
+                            "updated_at": "2022-01-31T14:28:00.000000Z",
+                            "transit_id": 4,
+                            "conveyance_id": 4,
+                            "max_value": 100000,
+                            "average_value": 50000,
+                            "utilisation": 100,
+                            "conveyance": {
+                                "id": 4,
+                                "created_at": null,
+                                "updated_at": null,
+                                "name": "FedEx/UPS etc Common Carrier"
+                            }
+                        }
+                    ],
+                    "insurance_type": {
+                        "id": 2,
+                        "created_at": null,
+                        "updated_at": null,
+                        "name": "Domestic Inland Transit",
+                        "contingent": 0
+                    },
+                    "packing": [
+                        {
+                            "id": 4,
+                            "created_at": "2022-01-31T14:28:00.000000Z",
+                            "updated_at": "2022-01-31T14:28:00.000000Z",
+                            "transit_id": 4,
+                            "packing_id": 4,
+                            "utilisation": 100,
+                            "packing": {
+                                "id": 4,
+                                "created_at": null,
+                                "updated_at": null,
+                                "deleted_at": null,
+                                "name": "Breakbulk"
+                            }
+                        }
+                    ],
+                    "shipping": [
+                        {
+                            "id": 4,
+                            "created_at": "2022-01-31T14:28:00.000000Z",
+                            "updated_at": "2022-01-31T14:28:00.000000Z",
+                            "transit_id": 4,
+                            "country_id": 6,
+                            "utilisation": 100,
+                            "country": {
+                                "id": 6,
+                                "created_at": null,
+                                "updated_at": null,
+                                "iso_code": null,
+                                "name": "Asia Pacific",
+                                "region": 1
+                            }
+                        }
+                    ]
+                },
+                "newValue": {
+                    "id": 5,
+                    "created_at": "2022-01-31T14:38:25.000000Z",
+                    "updated_at": "2022-01-31T14:38:25.000000Z",
+                    "morphable_id": 4,
+                    "morphable_type": "submission",
+                    "type": "incoming",
+                    "insurance_type_id": 2,
+                    "commodity_id": 4,
+                    "annual_value": 100000,
+                    "contingent_coverage": false,
+                    "uuid": "c1c61bc1-46b1-4967-a10d-4d701805d653",
+                    "commodity": {
+                        "id": 4,
+                        "created_at": null,
+                        "updated_at": null,
+                        "deleted_at": null,
+                        "name": "Building Materials & DIY Goods",
+                        "requires_review_binder_parameters": 0,
+                        "requires_review_stock": 0,
+                        "requires_review_transit": 0
+                    },
+                    "containers": [
+                        {
+                            "id": 6,
+                            "created_at": "2022-01-31T14:40:10.000000Z",
+                            "updated_at": "2022-01-31T14:40:10.000000Z",
+                            "transit_id": 5,
+                            "average_value": 4000
+                        },
+                        {
+                            "id": 7,
+                            "created_at": "2022-01-31T14:40:10.000000Z",
+                            "updated_at": "2022-01-31T14:40:10.000000Z",
+                            "transit_id": 5,
+                            "average_value": 5000
+                        }
+                    ],
+                    "conveyances": [
+                        {
+                            "id": 6,
+                            "created_at": "2022-01-31T14:40:10.000000Z",
+                            "updated_at": "2022-01-31T14:40:10.000000Z",
+                            "transit_id": 5,
+                            "conveyance_id": 4,
+                            "max_value": 100000,
+                            "average_value": 50000,
+                            "utilisation": 100,
+                            "conveyance": {
+                                "id": 4,
+                                "created_at": null,
+                                "updated_at": null,
+                                "name": "FedEx/UPS etc Common Carrier"
+                            }
+                        }
+                    ],
+                    "insurance_type": {
+                        "id": 2,
+                        "created_at": null,
+                        "updated_at": null,
+                        "name": "Domestic Inland Transit",
+                        "contingent": 0
+                    },
+                    "packing": [
+                        {
+                            "id": 6,
+                            "created_at": "2022-01-31T14:40:10.000000Z",
+                            "updated_at": "2022-01-31T14:40:10.000000Z",
+                            "transit_id": 5,
+                            "packing_id": 4,
+                            "utilisation": 100,
+                            "packing": {
+                                "id": 4,
+                                "created_at": null,
+                                "updated_at": null,
+                                "deleted_at": null,
+                                "name": "Breakbulk"
+                            }
+                        }
+                    ],
+                    "shipping": [
+                        {
+                            "id": 6,
+                            "created_at": "2022-01-31T14:40:10.000000Z",
+                            "updated_at": "2022-01-31T14:40:10.000000Z",
+                            "transit_id": 5,
+                            "country_id": 6,
+                            "utilisation": 50,
+                            "country": {
+                                "id": 6,
+                                "created_at": null,
+                                "updated_at": null,
+                                "iso_code": null,
+                                "name": "Asia Pacific",
+                                "region": 1
+                            }
+                        },
+                        {
+                            "id": 7,
+                            "created_at": "2022-01-31T14:40:10.000000Z",
+                            "updated_at": "2022-01-31T14:40:10.000000Z",
+                            "transit_id": 5,
+                            "country_id": 2,
+                            "utilisation": 50,
+                            "country": {
+                                "id": 2,
+                                "created_at": null,
+                                "updated_at": null,
+                                "iso_code": "CA",
+                                "name": "Canada",
+                                "region": 0
+                            }
+                        }
+                    ]
+                },
+                "values_updated": [
+                    "shipping",
+                    "containers"
+                ]
+            }
+        ],
+        "values_updated": []
+    },
+    "losses_year_1": {
+        "newValue": {
+            "id": 6,
+            "created_at": "2022-01-31T14:40:13.000000Z",
+            "updated_at": "2022-01-31T14:40:13.000000Z",
+            "submission_id": 4,
+            "from": 2021,
+            "to": 2022,
+            "paid": "2021.00000",
+            "fees": "2021.00000",
+            "outstanding": "2021.00000",
+            "advised": "2021.00000",
+            "count": 10,
+            "total_loss_value": 8084
+        },
+        "values_updated": [
+            "paid",
+            "outstanding",
+            "fees",
+            "advised",
+            "count"
+        ],
+        "type": "values updated"
+    },
+    "operations": {
+        "type": "values updated",
+        "oldValue": "Manufacturer, Retailer, Wholesaler",
+        "newValue": "Distributor, Manufacturer, Retailer, Wholesaler",
+        "var_type": "string"
+    }
+}

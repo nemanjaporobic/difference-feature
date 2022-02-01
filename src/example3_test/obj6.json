@@ -1,0 +1,1538 @@
+{
+    "id": 8,
+    "created_at": "2022-02-01T14:33:55.000000Z",
+    "updated_at": "2022-02-01T14:38:36.000000Z",
+    "uuid": "9ad84a9a-33d0-4742-a27d-fcbd983b23ce",
+    "risk_id": 5,
+    "status": "completed",
+    "transaction_type": "insurance",
+    "coverage_id": null,
+    "insured_name": "Test difference",
+    "country_id": 1,
+    "insured_address_line_1": "Test address 1",
+    "insured_address_line_2": null,
+    "insured_city": "London",
+    "insured_region": "London",
+    "insured_postcode": "33500",
+    "insured_state_id": 4,
+    "incorporation_year": 2021,
+    "created_by_user_id": 1,
+    "owned_by_user_id": 1,
+    "placing_broker_company_id": 1,
+    "producing_broker_company_id": 10,
+    "choice_of_law_country_id": 1,
+    "choice_of_law_state_id": 38,
+    "inception_date": "2022-02-02",
+    "expiry_date": "2023-03-23",
+    "local_timezone": 1,
+    "time_from": "09:00:00",
+    "time_to": "12:00:00",
+    "currency_id": 3,
+    "umr_reference": "B0180QPC1234567",
+    "sales_year_1_from": 2021,
+    "sales_year_1_to": 2022,
+    "sales_year_1_amount": "2021.00000",
+    "sales_year_2_from": 2022,
+    "sales_year_2_to": 2023,
+    "sales_year_2_amount": "2022.00000",
+    "sales_year_3_from": null,
+    "sales_year_3_to": null,
+    "sales_year_3_amount": null,
+    "sales_year_4_from": null,
+    "sales_year_4_to": null,
+    "sales_year_4_amount": null,
+    "sales_year_5_from": null,
+    "sales_year_5_to": null,
+    "sales_year_5_amount": null,
+    "sales_year_6_from": null,
+    "sales_year_6_to": null,
+    "sales_year_6_amount": null,
+    "target_premium": "110000.00000",
+    "business_category": "new_business",
+    "commodity_id": 1,
+    "commodity_description": "test air",
+    "basis_of_valuation": null,
+    "annual_value_incoming_transits": null,
+    "stock_limit": "10001.00000",
+    "cat_agg_limit": null,
+    "transit_limit": "10001.00000",
+    "cargo_marine_transit_limit": "10002.00000",
+    "order_percentage": "100.0000",
+    "requires_unnamed_location_limit": 0,
+    "unnamed_location_limit": null,
+    "requires_unnamed_location_aggregate_limit": 0,
+    "unnamed_location_aggregate_limit": null,
+    "requires_extra_expense_sub_limit": 0,
+    "extra_expense_sub_limit": null,
+    "requires_cyber_limit": 0,
+    "cyber_limit": null,
+    "cd_stock_deductible": null,
+    "cd_transit_deductible": "10000.00000",
+    "cd_cargo_marine_deductible": "10000.00000",
+    "brokerage": "27.5000",
+    "coverage": "Stock-throughput-STP",
+    "cd_policy_contract": "reinsurance",
+    "surplus_line_deemed": 0,
+    "surplus_line_broker_company": null,
+    "surplus_line_broker": null,
+    "surplus_line_domicile_id": null,
+    "surplus_line_state_id": null,
+    "surplus_line_address_line_1": null,
+    "surplus_line_address_line_2": null,
+    "surplus_line_city": null,
+    "surplus_line_region": null,
+    "surplus_line_postcode": null,
+    "surplus_line_latitude": null,
+    "surplus_line_longitude": null,
+    "surplus_line_state_of_filing_state_id": null,
+    "surplus_line_license_number": null,
+    "cedent_name": "Cedent ORG",
+    "cedent_domicile_id": 1,
+    "cedent_state_id": 38,
+    "cedent_address_line_1": "Test address 1",
+    "cedent_address_line_2": null,
+    "cedent_city": "New York",
+    "cedent_region": null,
+    "cedent_postcode": "33500",
+    "cedent_latitude": null,
+    "cedent_longitude": null,
+    "annual_value_of_incoming_transits": "250000.00000",
+    "basis_of_valuation_incoming_transits": "Cost, Insurance and freight plus 10% (plus duty if declared)",
+    "annual_value_of_outgoing_transits": "60000.00000",
+    "basis_of_valuation_outgoing_transits": "Assured's sales invoice less any unincurred expenses",
+    "annual_value_of_domestic_transits": "150000.00000",
+    "basis_of_valuation_domestic_transits": "London Metal Exchange value on date of loss plus 20% or as agreed",
+    "max_annual_value_of_stocks": "25000.00000",
+    "average_annual_value_of_stocks": "12500.00000",
+    "basis_of_valuation_stocks": "Assured's sales invoice less any unincurred expenses",
+    "include_tria": 0,
+    "requires_cat_aggregate_limit": 0,
+    "cat_aggregate_deductible": null,
+    "cd_stock_deductible_type": "percent deductible",
+    "cd_stock_deductible_percentage": "10.0000",
+    "cd_stock_deductible_basis_value": "Sum insured",
+    "cd_stock_deductible_subject_to_minimum": "10001.00000",
+    "cd_stock_cat_deductible_type": "percent deductible",
+    "cd_stock_cat_deductible": null,
+    "cd_stock_cat_deductible_percentage": "75.0000",
+    "cd_stock_cat_deductible_basis_value": "Shipment value",
+    "cd_stock_cat_deductible_subject_to_minimum": "10001.00000",
+    "cd_cargo_marine_deductible_type": "flat deductible",
+    "cd_cargo_marine_deductible_percentage": null,
+    "cd_cargo_marine_deductible_basis_value": null,
+    "cd_cargo_marine_deductible_subject_to_minimum": null,
+    "cd_transit_deductible_type": "flat deductible",
+    "cd_transit_deductible_percentage": null,
+    "cd_transit_deductible_basis_value": null,
+    "cd_transit_deductible_subject_to_minimum": null,
+    "narrative": null,
+    "line_required": 10002,
+    "risk_type": "submission",
+    "max_policy_limit": 10002,
+    "incoming_transit_count": 2,
+    "outgoing_transit_count": 2,
+    "domestic_transit_count": 2,
+    "stock_count": 1,
+    "has_expired_offers": false,
+    "term_length": 414,
+    "can_download_security_details_document": true,
+    "is_editable": false,
+    "offers_received_count": 0,
+    "offers_received_percentage": 0,
+    "has_firm_order_offers_with_accepted_lead": true,
+    "country": {
+        "id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "iso_code": "US",
+        "name": "United States of America",
+        "region": 0
+    },
+    "currency": {
+        "id": 3,
+        "created_at": "2022-01-29 13:48:23",
+        "updated_at": null,
+        "deleted_at": null,
+        "name": "Pound sterling",
+        "code": "GBP",
+        "character": "",
+        "conversion_rate": 1
+    },
+    "firm_order_offers": [
+        {
+            "id": 9,
+            "created_at": "2022-02-01T14:33:10.000000Z",
+            "updated_at": "2022-02-01T14:33:10.000000Z",
+            "offer_id": null,
+            "firm_order_id": 8,
+            "status": "bound",
+            "insurer_company_id": 4,
+            "bound_by_user_id": 11,
+            "bound_at": "2022-02-01T14:32:53.000000Z",
+            "written_line_percent": 100,
+            "estimated_premium": null,
+            "security_id": 3,
+            "split_stamp_first_syndicate_percentage": null,
+            "split_stamp_second_syndicate_percentage": null,
+            "underwriter_reference": "UNW394820982",
+            "risk_code": "",
+            "premium_of_whole": "10000.00000",
+            "security_role_id": 1,
+            "settlement_due": "2022-02-28",
+            "instalment_period_of_credit": 11,
+            "adjustment_period_of_credit": null,
+            "type": "lead",
+            "unnamed_location_limit": null,
+            "stock_deductible": null,
+            "unnamed_location_aggregate_limit": null,
+            "transit_deductible": null,
+            "premium_type": "Full",
+            "adjustment_rate_percentage": null,
+            "period": null,
+            "domestic_transit_deductible": "10000.00000",
+            "cargo_marine_transit_deductible": "10000.00000",
+            "extra_expense_sub_limit": null,
+            "cyber_limit": null,
+            "brokerage": "27.5000",
+            "minimum_and_deposit_value": null,
+            "minimum_and_deposit_percentage": null,
+            "adjustment_rate_value": null,
+            "minimum_and_deposit_description": null,
+            "line_to_stand": 0,
+            "signed_line_percent": "100.000000000000",
+            "tria_offered": null,
+            "tria_premium": null,
+            "cat_aggregate_deductible": null,
+            "stock_deductible_type": null,
+            "stock_deductible_percentage": null,
+            "stock_deductible_basis_value": null,
+            "stock_deductible_subject_to_minimum": null,
+            "stock_cat_deductible_type": null,
+            "stock_cat_deductible": null,
+            "stock_cat_deductible_percentage": null,
+            "stock_cat_deductible_basis_value": null,
+            "stock_cat_deductible_subject_to_minimum": null,
+            "cargo_marine_deductible_type": "flat deductible",
+            "cargo_marine_deductible_percentage": null,
+            "cargo_marine_deductible_basis_value": null,
+            "cargo_marine_deductible_subject_to_minimum": null,
+            "transit_deductible_type": "flat deductible",
+            "transit_deductible_percentage": null,
+            "transit_deductible_basis_value": null,
+            "transit_deductible_subject_to_minimum": null,
+            "insurer_role": "Open Market",
+            "facility_insurer_id": null,
+            "is_offline": 0,
+            "laravel_through_key": 8,
+            "written_line_amount": 10002,
+            "premium_of_order": 10000,
+            "security_type": "syndicate",
+            "signed_line_amount": 10002,
+            "written_premium": 10000,
+            "signed_premium": 10000,
+            "firm_order": {
+                "id": 8,
+                "created_at": "2022-02-01T14:33:55.000000Z",
+                "updated_at": "2022-02-01T14:33:55.000000Z",
+                "submission_id": 8,
+                "status": "reviewing",
+                "submission": {
+                    "id": 8,
+                    "created_at": "2022-02-01T14:33:55.000000Z",
+                    "updated_at": "2022-02-01T14:38:36.000000Z",
+                    "uuid": "9ad84a9a-33d0-4742-a27d-fcbd983b23ce",
+                    "risk_id": 5,
+                    "status": "completed",
+                    "transaction_type": "insurance",
+                    "coverage_id": null,
+                    "insured_name": "Test difference",
+                    "country_id": 1,
+                    "insured_address_line_1": "Test address 1",
+                    "insured_address_line_2": null,
+                    "insured_city": "London",
+                    "insured_region": "London",
+                    "insured_postcode": "33500",
+                    "insured_state_id": 4,
+                    "incorporation_year": 2021,
+                    "created_by_user_id": 1,
+                    "owned_by_user_id": 1,
+                    "placing_broker_company_id": 1,
+                    "producing_broker_company_id": 10,
+                    "choice_of_law_country_id": 1,
+                    "choice_of_law_state_id": 38,
+                    "inception_date": "2022-02-02",
+                    "expiry_date": "2023-03-23",
+                    "local_timezone": 1,
+                    "time_from": "09:00:00",
+                    "time_to": "12:00:00",
+                    "currency_id": 3,
+                    "umr_reference": "B0180QPC1234567",
+                    "sales_year_1_from": 2021,
+                    "sales_year_1_to": 2022,
+                    "sales_year_1_amount": "2021.00000",
+                    "sales_year_2_from": 2022,
+                    "sales_year_2_to": 2023,
+                    "sales_year_2_amount": "2022.00000",
+                    "sales_year_3_from": null,
+                    "sales_year_3_to": null,
+                    "sales_year_3_amount": null,
+                    "sales_year_4_from": null,
+                    "sales_year_4_to": null,
+                    "sales_year_4_amount": null,
+                    "sales_year_5_from": null,
+                    "sales_year_5_to": null,
+                    "sales_year_5_amount": null,
+                    "sales_year_6_from": null,
+                    "sales_year_6_to": null,
+                    "sales_year_6_amount": null,
+                    "target_premium": "110000.00000",
+                    "business_category": "new_business",
+                    "commodity_id": 1,
+                    "commodity_description": "test air",
+                    "basis_of_valuation": null,
+                    "annual_value_incoming_transits": null,
+                    "stock_limit": "10001.00000",
+                    "cat_agg_limit": null,
+                    "transit_limit": "10001.00000",
+                    "cargo_marine_transit_limit": "10002.00000",
+                    "order_percentage": "100.0000",
+                    "requires_unnamed_location_limit": 0,
+                    "unnamed_location_limit": null,
+                    "requires_unnamed_location_aggregate_limit": 0,
+                    "unnamed_location_aggregate_limit": null,
+                    "requires_extra_expense_sub_limit": 0,
+                    "extra_expense_sub_limit": null,
+                    "requires_cyber_limit": 0,
+                    "cyber_limit": null,
+                    "cd_stock_deductible": null,
+                    "cd_transit_deductible": "10000.00000",
+                    "cd_cargo_marine_deductible": "10000.00000",
+                    "brokerage": "27.5000",
+                    "coverage": "Stock-throughput-STP",
+                    "cd_policy_contract": "reinsurance",
+                    "surplus_line_deemed": 0,
+                    "surplus_line_broker_company": null,
+                    "surplus_line_broker": null,
+                    "surplus_line_domicile_id": null,
+                    "surplus_line_state_id": null,
+                    "surplus_line_address_line_1": null,
+                    "surplus_line_address_line_2": null,
+                    "surplus_line_city": null,
+                    "surplus_line_region": null,
+                    "surplus_line_postcode": null,
+                    "surplus_line_latitude": null,
+                    "surplus_line_longitude": null,
+                    "surplus_line_state_of_filing_state_id": null,
+                    "surplus_line_license_number": null,
+                    "cedent_name": "Cedent ORG",
+                    "cedent_domicile_id": 1,
+                    "cedent_state_id": 38,
+                    "cedent_address_line_1": "Test address 1",
+                    "cedent_address_line_2": null,
+                    "cedent_city": "New York",
+                    "cedent_region": null,
+                    "cedent_postcode": "33500",
+                    "cedent_latitude": null,
+                    "cedent_longitude": null,
+                    "annual_value_of_incoming_transits": "250000.00000",
+                    "basis_of_valuation_incoming_transits": "Cost, Insurance and freight plus 10% (plus duty if declared)",
+                    "annual_value_of_outgoing_transits": "60000.00000",
+                    "basis_of_valuation_outgoing_transits": "Assured's sales invoice less any unincurred expenses",
+                    "annual_value_of_domestic_transits": "150000.00000",
+                    "basis_of_valuation_domestic_transits": "London Metal Exchange value on date of loss plus 20% or as agreed",
+                    "max_annual_value_of_stocks": "25000.00000",
+                    "average_annual_value_of_stocks": "12500.00000",
+                    "basis_of_valuation_stocks": "Assured's sales invoice less any unincurred expenses",
+                    "include_tria": 0,
+                    "requires_cat_aggregate_limit": 0,
+                    "cat_aggregate_deductible": null,
+                    "cd_stock_deductible_type": "percent deductible",
+                    "cd_stock_deductible_percentage": "10.0000",
+                    "cd_stock_deductible_basis_value": "Sum insured",
+                    "cd_stock_deductible_subject_to_minimum": "10001.00000",
+                    "cd_stock_cat_deductible_type": "percent deductible",
+                    "cd_stock_cat_deductible": null,
+                    "cd_stock_cat_deductible_percentage": "75.0000",
+                    "cd_stock_cat_deductible_basis_value": "Shipment value",
+                    "cd_stock_cat_deductible_subject_to_minimum": "10001.00000",
+                    "cd_cargo_marine_deductible_type": "flat deductible",
+                    "cd_cargo_marine_deductible_percentage": null,
+                    "cd_cargo_marine_deductible_basis_value": null,
+                    "cd_cargo_marine_deductible_subject_to_minimum": null,
+                    "cd_transit_deductible_type": "flat deductible",
+                    "cd_transit_deductible_percentage": null,
+                    "cd_transit_deductible_basis_value": null,
+                    "cd_transit_deductible_subject_to_minimum": null,
+                    "narrative": null,
+                    "line_required": 10002,
+                    "risk_type": "submission",
+                    "max_policy_limit": 10002,
+                    "incoming_transit_count": 2,
+                    "outgoing_transit_count": 2,
+                    "domestic_transit_count": 2,
+                    "stock_count": 1,
+                    "has_expired_offers": false,
+                    "term_length": 414,
+                    "can_download_security_details_document": true,
+                    "is_editable": false,
+                    "offers_received_count": 0,
+                    "offers_received_percentage": 0,
+                    "has_firm_order_offers_with_accepted_lead": true,
+                    "country": {
+                        "id": 1,
+                        "created_at": null,
+                        "updated_at": null,
+                        "iso_code": "US",
+                        "name": "United States of America",
+                        "region": 0
+                    },
+                    "currency": {
+                        "id": 3,
+                        "created_at": "2022-01-29 13:48:23",
+                        "updated_at": null,
+                        "deleted_at": null,
+                        "name": "Pound sterling",
+                        "code": "GBP",
+                        "character": "",
+                        "conversion_rate": 1
+                    },
+                    "stocks": [
+                        {
+                            "id": 1,
+                            "created_at": "2022-02-01T14:37:29.000000Z",
+                            "updated_at": "2022-02-01T14:37:29.000000Z",
+                            "morphable_id": 8,
+                            "morphable_type": "submission",
+                            "commodity_id": 3,
+                            "country_id": 1,
+                            "document_id": null,
+                            "location_description_id": 5,
+                            "insurance_type_id": 1,
+                            "state_id": 38,
+                            "average_exposure_value": 12500,
+                            "max_inventory_value": 25000,
+                            "base_rate": null,
+                            "net_rate": null,
+                            "annual_premium": null,
+                            "final_premium": null,
+                            "modifier_premium": null,
+                            "tria_premium": null,
+                            "location_name": "Stock 98342",
+                            "address_line_1": "Test address 1",
+                            "address_line_2": null,
+                            "city": "New York",
+                            "region": null,
+                            "postcode": "33500",
+                            "longitude": null,
+                            "latitude": null,
+                            "year_built": 2021,
+                            "year_of_last_building_update": 2021,
+                            "year_of_last_roof_update": 2021,
+                            "cctv": 1,
+                            "central_station_burglar_alarm": 0,
+                            "central_station_fire_alarm": 0,
+                            "construction_type": "Concrete/Steel",
+                            "controlled_access": 1,
+                            "fire_extinguishers": 1,
+                            "fire_hydrants": 1,
+                            "onsite_backup_generators": 2,
+                            "perimeter_fences": 1,
+                            "security_guards": 0,
+                            "sprinkler": 2,
+                            "temperature_controlled": 0,
+                            "third_party_location": 1,
+                            "uuid": "a0180631-186d-4274-99c1-451cb83deb71",
+                            "commodity": {
+                                "id": 3,
+                                "created_at": null,
+                                "updated_at": null,
+                                "deleted_at": null,
+                                "name": "Boats As Cargo",
+                                "requires_review_binder_parameters": 1,
+                                "requires_review_stock": 1,
+                                "requires_review_transit": 1
+                            },
+                            "location_description": {
+                                "id": 5,
+                                "created_at": null,
+                                "updated_at": null,
+                                "deleted_at": null,
+                                "name": "Retail/Warehouse"
+                            },
+                            "state": {
+                                "id": 38,
+                                "created_at": null,
+                                "updated_at": null,
+                                "deleted_at": null,
+                                "name": "New York",
+                                "abbreviation": "NY"
+                            },
+                            "country": {
+                                "id": 1,
+                                "created_at": null,
+                                "updated_at": null,
+                                "iso_code": "US",
+                                "name": "United States of America",
+                                "region": 0
+                            }
+                        }
+                    ],
+                    "firm_orders": [
+                        {
+                            "id": 8,
+                            "created_at": "2022-02-01T14:33:55.000000Z",
+                            "updated_at": "2022-02-01T14:33:55.000000Z",
+                            "submission_id": 8,
+                            "status": "reviewing"
+                        }
+                    ]
+                }
+            },
+            "insurer_company": {
+                "id": 4,
+                "created_at": "2022-01-29T13:48:24.000000Z",
+                "updated_at": "2022-01-29T13:48:24.000000Z",
+                "name": "InsurerA",
+                "company_type": "insurer",
+                "country_id": 1,
+                "address_line_1": "Test address 1",
+                "address_line_2": null,
+                "city": "New York",
+                "postcode": "33500",
+                "state_id": 1,
+                "short_name": "UNW1",
+                "email": "test@email.com",
+                "is_offline_company": 0,
+                "users": [
+                    {
+                        "id": 11,
+                        "created_at": "2022-01-29T13:48:24.000000Z",
+                        "updated_at": "2022-02-01T14:33:02.000000Z",
+                        "deleted_at": null,
+                        "uuid": "7b636fc8-e0d2-43cb-a82e-2ed29f536460",
+                        "name": "insurera@insurera.com",
+                        "email": "insurera@insurera.com",
+                        "company_id": 4,
+                        "role_id": 1,
+                        "notify_via_email": 1,
+                        "last_login": "2022-02-01 14:33:02",
+                        "open_id": "5b6d13e6-da6d-4c34-9c8b-81cd25ea69a9",
+                        "open_id_provider": "azure-b2c",
+                        "role_name": "user",
+                        "company": {
+                            "id": 4,
+                            "created_at": "2022-01-29T13:48:24.000000Z",
+                            "updated_at": "2022-01-29T13:48:24.000000Z",
+                            "name": "InsurerA",
+                            "company_type": "insurer",
+                            "country_id": 1,
+                            "address_line_1": "Test address 1",
+                            "address_line_2": null,
+                            "city": "New York",
+                            "postcode": "33500",
+                            "state_id": 1,
+                            "short_name": "UNW1",
+                            "email": "test@email.com",
+                            "is_offline_company": 0
+                        },
+                        "role": {
+                            "id": 1,
+                            "created_at": null,
+                            "updated_at": null,
+                            "name": "user",
+                            "description": "Can access everything including broker and insurer sections."
+                        }
+                    },
+                    {
+                        "id": 12,
+                        "created_at": "2022-01-29T13:48:24.000000Z",
+                        "updated_at": "2022-01-29T13:48:24.000000Z",
+                        "deleted_at": null,
+                        "uuid": "fa7b0dd2-2023-4a10-bc17-6505296c49aa",
+                        "name": "InsurerA Two",
+                        "email": "user2@insurera.com",
+                        "company_id": 4,
+                        "role_id": 1,
+                        "notify_via_email": 1,
+                        "last_login": null,
+                        "open_id": null,
+                        "open_id_provider": null,
+                        "role_name": "user",
+                        "company": {
+                            "id": 4,
+                            "created_at": "2022-01-29T13:48:24.000000Z",
+                            "updated_at": "2022-01-29T13:48:24.000000Z",
+                            "name": "InsurerA",
+                            "company_type": "insurer",
+                            "country_id": 1,
+                            "address_line_1": "Test address 1",
+                            "address_line_2": null,
+                            "city": "New York",
+                            "postcode": "33500",
+                            "state_id": 1,
+                            "short_name": "UNW1",
+                            "email": "test@email.com",
+                            "is_offline_company": 0
+                        },
+                        "role": {
+                            "id": 1,
+                            "created_at": null,
+                            "updated_at": null,
+                            "name": "user",
+                            "description": "Can access everything including broker and insurer sections."
+                        }
+                    }
+                ]
+            },
+            "security": {
+                "id": 3,
+                "created_at": "2022-01-29T13:48:24.000000Z",
+                "updated_at": "2022-01-31T12:46:00.000000Z",
+                "name": "Thompson-Heller",
+                "status": "active",
+                "insurer_company_id": 4,
+                "type": "syndicate",
+                "syndicate_number": "SYN-1002",
+                "split_stamp_first_syndicate_number": null,
+                "split_stamp_second_syndicate_number": null,
+                "security_roles": [
+                    {
+                        "id": 1,
+                        "created_at": null,
+                        "updated_at": null,
+                        "name": "Slip Lead/Lloyd's Lead",
+                        "pivot": {
+                            "security_id": 3,
+                            "security_role_id": 1
+                        }
+                    }
+                ]
+            },
+            "security_role": {
+                "id": 1,
+                "created_at": null,
+                "updated_at": null,
+                "name": "Slip Lead/Lloyd's Lead"
+            },
+            "risk_codes": [
+                {
+                    "id": 2,
+                    "created_at": null,
+                    "updated_at": null,
+                    "deleted_at": null,
+                    "name": "8T",
+                    "pivot": {
+                        "firm_order_offer_id": 9,
+                        "risk_code_id": 2,
+                        "premium_allocation": "1000.00000"
+                    }
+                },
+                {
+                    "id": 4,
+                    "created_at": null,
+                    "updated_at": null,
+                    "deleted_at": null,
+                    "name": "FA",
+                    "pivot": {
+                        "firm_order_offer_id": 9,
+                        "risk_code_id": 4,
+                        "premium_allocation": "1012.00000"
+                    }
+                },
+                {
+                    "id": 5,
+                    "created_at": null,
+                    "updated_at": null,
+                    "deleted_at": null,
+                    "name": "GS",
+                    "pivot": {
+                        "firm_order_offer_id": 9,
+                        "risk_code_id": 5,
+                        "premium_allocation": "4220.00000"
+                    }
+                },
+                {
+                    "id": 6,
+                    "created_at": null,
+                    "updated_at": null,
+                    "deleted_at": null,
+                    "name": "JB",
+                    "pivot": {
+                        "firm_order_offer_id": 9,
+                        "risk_code_id": 6,
+                        "premium_allocation": "2450.00000"
+                    }
+                },
+                {
+                    "id": 7,
+                    "created_at": null,
+                    "updated_at": null,
+                    "deleted_at": null,
+                    "name": "N",
+                    "pivot": {
+                        "firm_order_offer_id": 9,
+                        "risk_code_id": 7,
+                        "premium_allocation": "5404.00000"
+                    }
+                }
+            ],
+            "bound_by_user": {
+                "id": 11,
+                "created_at": "2022-01-29T13:48:24.000000Z",
+                "updated_at": "2022-02-01T14:33:02.000000Z",
+                "deleted_at": null,
+                "uuid": "7b636fc8-e0d2-43cb-a82e-2ed29f536460",
+                "name": "insurera@insurera.com",
+                "email": "insurera@insurera.com",
+                "company_id": 4,
+                "role_id": 1,
+                "notify_via_email": 1,
+                "last_login": "2022-02-01 14:33:02",
+                "open_id": "5b6d13e6-da6d-4c34-9c8b-81cd25ea69a9",
+                "open_id_provider": "azure-b2c",
+                "role_name": "user",
+                "company": {
+                    "id": 4,
+                    "created_at": "2022-01-29T13:48:24.000000Z",
+                    "updated_at": "2022-01-29T13:48:24.000000Z",
+                    "name": "InsurerA",
+                    "company_type": "insurer",
+                    "country_id": 1,
+                    "address_line_1": "Test address 1",
+                    "address_line_2": null,
+                    "city": "New York",
+                    "postcode": "33500",
+                    "state_id": 1,
+                    "short_name": "UNW1",
+                    "email": "test@email.com",
+                    "is_offline_company": 0
+                },
+                "role": {
+                    "id": 1,
+                    "created_at": null,
+                    "updated_at": null,
+                    "name": "user",
+                    "description": "Can access everything including broker and insurer sections."
+                }
+            },
+            "facility_insurer": null,
+            "subjectivities": [
+                {
+                    "id": 40,
+                    "created_at": "2022-02-01T14:33:55.000000Z",
+                    "updated_at": "2022-02-01T14:33:55.000000Z",
+                    "deleted_at": null,
+                    "name": "Test subjectivity 1",
+                    "morphable_id": 9,
+                    "morphable_type": "firmOrderOffer",
+                    "type": "subjectivity",
+                    "source": "offer",
+                    "due_by": "2022-02-28",
+                    "satisfied": 0,
+                    "status": "Pending"
+                },
+                {
+                    "id": 41,
+                    "created_at": "2022-02-01T14:33:55.000000Z",
+                    "updated_at": "2022-02-01T14:38:55.000000Z",
+                    "deleted_at": null,
+                    "name": "Test subjectivity 2",
+                    "morphable_id": 9,
+                    "morphable_type": "firmOrderOffer",
+                    "type": "subjectivity",
+                    "source": "offer",
+                    "due_by": null,
+                    "satisfied": 1,
+                    "status": "Satisfied"
+                },
+                {
+                    "id": 42,
+                    "created_at": "2022-02-01T14:33:55.000000Z",
+                    "updated_at": "2022-02-01T14:38:58.000000Z",
+                    "deleted_at": null,
+                    "name": "Test subjectivity 3",
+                    "morphable_id": 9,
+                    "morphable_type": "firmOrderOffer",
+                    "type": "subjectivity",
+                    "source": "offer",
+                    "due_by": null,
+                    "satisfied": 1,
+                    "status": "Satisfied"
+                }
+            ]
+        }
+    ],
+    "offers": [],
+    "losses": [
+        {
+            "id": 104,
+            "created_at": "2022-02-01T14:39:17.000000Z",
+            "updated_at": "2022-02-01T14:39:17.000000Z",
+            "submission_id": 8,
+            "from": 2021,
+            "to": 2022,
+            "paid": "2021.00000",
+            "fees": "2021.00000",
+            "outstanding": "2021.00000",
+            "advised": "2021.00000",
+            "count": 21,
+            "total_loss_value": 8084
+        }
+    ],
+    "operations": [
+        {
+            "id": 7,
+            "created_at": null,
+            "updated_at": null,
+            "deleted_at": null,
+            "name": "Trader",
+            "pivot": {
+                "submission_id": 8,
+                "operation_id": 7
+            }
+        },
+        {
+            "id": 5,
+            "created_at": null,
+            "updated_at": null,
+            "deleted_at": null,
+            "name": "Warehouse",
+            "pivot": {
+                "submission_id": 8,
+                "operation_id": 5
+            }
+        },
+        {
+            "id": 3,
+            "created_at": null,
+            "updated_at": null,
+            "deleted_at": null,
+            "name": "Retailer",
+            "pivot": {
+                "submission_id": 8,
+                "operation_id": 3
+            }
+        }
+    ],
+    "stocks": [
+        {
+            "id": 1,
+            "created_at": "2022-02-01T14:37:29.000000Z",
+            "updated_at": "2022-02-01T14:37:29.000000Z",
+            "morphable_id": 8,
+            "morphable_type": "submission",
+            "commodity_id": 3,
+            "country_id": 1,
+            "document_id": null,
+            "location_description_id": 5,
+            "insurance_type_id": 1,
+            "state_id": 38,
+            "average_exposure_value": 12500,
+            "max_inventory_value": 25000,
+            "base_rate": null,
+            "net_rate": null,
+            "annual_premium": null,
+            "final_premium": null,
+            "modifier_premium": null,
+            "tria_premium": null,
+            "location_name": "Stock 98342",
+            "address_line_1": "Test address 1",
+            "address_line_2": null,
+            "city": "New York",
+            "region": null,
+            "postcode": "33500",
+            "longitude": null,
+            "latitude": null,
+            "year_built": 2021,
+            "year_of_last_building_update": 2021,
+            "year_of_last_roof_update": 2021,
+            "cctv": 1,
+            "central_station_burglar_alarm": 0,
+            "central_station_fire_alarm": 0,
+            "construction_type": "Concrete/Steel",
+            "controlled_access": 1,
+            "fire_extinguishers": 1,
+            "fire_hydrants": 1,
+            "onsite_backup_generators": 2,
+            "perimeter_fences": 1,
+            "security_guards": 0,
+            "sprinkler": 2,
+            "temperature_controlled": 0,
+            "third_party_location": 1,
+            "uuid": "a0180631-186d-4274-99c1-451cb83deb71",
+            "commodity": {
+                "id": 3,
+                "created_at": null,
+                "updated_at": null,
+                "deleted_at": null,
+                "name": "Boats As Cargo",
+                "requires_review_binder_parameters": 1,
+                "requires_review_stock": 1,
+                "requires_review_transit": 1
+            },
+            "location_description": {
+                "id": 5,
+                "created_at": null,
+                "updated_at": null,
+                "deleted_at": null,
+                "name": "Retail/Warehouse"
+            },
+            "state": {
+                "id": 38,
+                "created_at": null,
+                "updated_at": null,
+                "deleted_at": null,
+                "name": "New York",
+                "abbreviation": "NY"
+            },
+            "country": {
+                "id": 1,
+                "created_at": null,
+                "updated_at": null,
+                "iso_code": "US",
+                "name": "United States of America",
+                "region": 0
+            }
+        }
+    ],
+    "transits": [
+        {
+            "id": 31,
+            "created_at": "2022-02-01T14:33:55.000000Z",
+            "updated_at": "2022-02-01T14:33:55.000000Z",
+            "morphable_id": 8,
+            "morphable_type": "submission",
+            "type": "incoming",
+            "insurance_type_id": 3,
+            "commodity_id": 1,
+            "annual_value": 50000,
+            "contingent_coverage": false,
+            "uuid": "04917722-c03c-4f88-aceb-f37c5bbc2f55",
+            "commodity": {
+                "id": 1,
+                "created_at": null,
+                "updated_at": null,
+                "deleted_at": null,
+                "name": "Aircraft & Spares",
+                "requires_review_binder_parameters": 1,
+                "requires_review_stock": 1,
+                "requires_review_transit": 1
+            },
+            "containers": [
+                {
+                    "id": 44,
+                    "created_at": "2022-02-01T14:33:55.000000Z",
+                    "updated_at": "2022-02-01T14:33:55.000000Z",
+                    "transit_id": 31,
+                    "average_value": 1000
+                }
+            ],
+            "conveyances": [
+                {
+                    "id": 43,
+                    "created_at": "2022-02-01T14:33:55.000000Z",
+                    "updated_at": "2022-02-01T14:33:55.000000Z",
+                    "transit_id": 31,
+                    "conveyance_id": 4,
+                    "max_value": 25000,
+                    "average_value": 12500,
+                    "utilisation": 100,
+                    "conveyance": {
+                        "id": 4,
+                        "created_at": null,
+                        "updated_at": null,
+                        "name": "FedEx/UPS etc Common Carrier"
+                    }
+                }
+            ],
+            "insurance_type": {
+                "id": 3,
+                "created_at": null,
+                "updated_at": null,
+                "name": "Ocean Worldwide",
+                "contingent": 0
+            },
+            "packing": [
+                {
+                    "id": 44,
+                    "created_at": "2022-02-01T14:33:55.000000Z",
+                    "updated_at": "2022-02-01T14:33:55.000000Z",
+                    "transit_id": 31,
+                    "packing_id": 5,
+                    "utilisation": 100,
+                    "packing": {
+                        "id": 5,
+                        "created_at": null,
+                        "updated_at": null,
+                        "deleted_at": null,
+                        "name": "Bogged"
+                    }
+                }
+            ],
+            "shipping": [
+                {
+                    "id": 44,
+                    "created_at": "2022-02-01T14:33:55.000000Z",
+                    "updated_at": "2022-02-01T14:33:55.000000Z",
+                    "transit_id": 31,
+                    "country_id": 2,
+                    "utilisation": 100,
+                    "country": {
+                        "id": 2,
+                        "created_at": null,
+                        "updated_at": null,
+                        "iso_code": "CA",
+                        "name": "Canada",
+                        "region": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "created_at": "2022-02-01T14:33:55.000000Z",
+            "updated_at": "2022-02-01T14:33:55.000000Z",
+            "morphable_id": 8,
+            "morphable_type": "submission",
+            "type": "incoming",
+            "insurance_type_id": 5,
+            "commodity_id": 6,
+            "annual_value": 50000,
+            "contingent_coverage": true,
+            "uuid": "697cb7cd-3aab-4c47-9ff1-4bf92eb27b93",
+            "commodity": {
+                "id": 6,
+                "created_at": null,
+                "updated_at": null,
+                "deleted_at": null,
+                "name": "Cement",
+                "requires_review_binder_parameters": 1,
+                "requires_review_stock": 1,
+                "requires_review_transit": 1
+            },
+            "containers": [
+                {
+                    "id": 55,
+                    "created_at": "2022-02-01T14:35:50.000000Z",
+                    "updated_at": "2022-02-01T14:35:50.000000Z",
+                    "transit_id": 33,
+                    "average_value": 1000
+                }
+            ],
+            "conveyances": [
+                {
+                    "id": 53,
+                    "created_at": "2022-02-01T14:35:50.000000Z",
+                    "updated_at": "2022-02-01T14:35:50.000000Z",
+                    "transit_id": 33,
+                    "conveyance_id": 3,
+                    "max_value": 10000,
+                    "average_value": 5000,
+                    "utilisation": 100,
+                    "conveyance": {
+                        "id": 3,
+                        "created_at": null,
+                        "updated_at": null,
+                        "name": "Barge"
+                    }
+                }
+            ],
+            "insurance_type": {
+                "id": 5,
+                "created_at": null,
+                "updated_at": null,
+                "name": "Domestic Inland Transit",
+                "contingent": 1
+            },
+            "packing": [
+                {
+                    "id": 54,
+                    "created_at": "2022-02-01T14:35:50.000000Z",
+                    "updated_at": "2022-02-01T14:35:50.000000Z",
+                    "transit_id": 33,
+                    "packing_id": 3,
+                    "utilisation": 50,
+                    "packing": {
+                        "id": 3,
+                        "created_at": null,
+                        "updated_at": null,
+                        "deleted_at": null,
+                        "name": "Bulk"
+                    }
+                },
+                {
+                    "id": 55,
+                    "created_at": "2022-02-01T14:35:50.000000Z",
+                    "updated_at": "2022-02-01T14:35:50.000000Z",
+                    "transit_id": 33,
+                    "packing_id": 5,
+                    "utilisation": 50,
+                    "packing": {
+                        "id": 5,
+                        "created_at": null,
+                        "updated_at": null,
+                        "deleted_at": null,
+                        "name": "Bogged"
+                    }
+                }
+            ],
+            "shipping": [
+                {
+                    "id": 55,
+                    "created_at": "2022-02-01T14:35:50.000000Z",
+                    "updated_at": "2022-02-01T14:35:50.000000Z",
+                    "transit_id": 33,
+                    "country_id": 6,
+                    "utilisation": 100,
+                    "country": {
+                        "id": 6,
+                        "created_at": null,
+                        "updated_at": null,
+                        "iso_code": null,
+                        "name": "Asia Pacific",
+                        "region": 1
+                    }
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "created_at": "2022-02-01T14:33:56.000000Z",
+            "updated_at": "2022-02-01T14:33:56.000000Z",
+            "morphable_id": 8,
+            "morphable_type": "submission",
+            "type": "outgoing",
+            "insurance_type_id": 3,
+            "commodity_id": 2,
+            "annual_value": 20000,
+            "contingent_coverage": false,
+            "uuid": "a02f51c9-b186-45a9-8906-28cbb31413e9",
+            "commodity": {
+                "id": 2,
+                "created_at": null,
+                "updated_at": null,
+                "deleted_at": null,
+                "name": "Arms, Ammunitions & Military Equipment",
+                "requires_review_binder_parameters": 0,
+                "requires_review_stock": 0,
+                "requires_review_transit": 0
+            },
+            "containers": [
+                {
+                    "id": 53,
+                    "created_at": "2022-02-01T14:35:36.000000Z",
+                    "updated_at": "2022-02-01T14:35:36.000000Z",
+                    "transit_id": 34,
+                    "average_value": 1000
+                },
+                {
+                    "id": 54,
+                    "created_at": "2022-02-01T14:35:36.000000Z",
+                    "updated_at": "2022-02-01T14:35:36.000000Z",
+                    "transit_id": 34,
+                    "average_value": 5000
+                }
+            ],
+            "conveyances": [
+                {
+                    "id": 52,
+                    "created_at": "2022-02-01T14:35:36.000000Z",
+                    "updated_at": "2022-02-01T14:35:36.000000Z",
+                    "transit_id": 34,
+                    "conveyance_id": 3,
+                    "max_value": 10000,
+                    "average_value": 5500,
+                    "utilisation": 100,
+                    "conveyance": {
+                        "id": 3,
+                        "created_at": null,
+                        "updated_at": null,
+                        "name": "Barge"
+                    }
+                }
+            ],
+            "insurance_type": {
+                "id": 3,
+                "created_at": null,
+                "updated_at": null,
+                "name": "Ocean Worldwide",
+                "contingent": 0
+            },
+            "packing": [
+                {
+                    "id": 53,
+                    "created_at": "2022-02-01T14:35:36.000000Z",
+                    "updated_at": "2022-02-01T14:35:36.000000Z",
+                    "transit_id": 34,
+                    "packing_id": 2,
+                    "utilisation": 100,
+                    "packing": {
+                        "id": 2,
+                        "created_at": null,
+                        "updated_at": null,
+                        "deleted_at": null,
+                        "name": "LCL"
+                    }
+                }
+            ],
+            "shipping": [
+                {
+                    "id": 54,
+                    "created_at": "2022-02-01T14:35:36.000000Z",
+                    "updated_at": "2022-02-01T14:35:36.000000Z",
+                    "transit_id": 34,
+                    "country_id": 4,
+                    "utilisation": 100,
+                    "country": {
+                        "id": 4,
+                        "created_at": null,
+                        "updated_at": null,
+                        "iso_code": null,
+                        "name": "Europe",
+                        "region": 1
+                    }
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "created_at": "2022-02-01T14:33:56.000000Z",
+            "updated_at": "2022-02-01T14:33:56.000000Z",
+            "morphable_id": 8,
+            "morphable_type": "submission",
+            "type": "outgoing",
+            "insurance_type_id": 7,
+            "commodity_id": 12,
+            "annual_value": 20000,
+            "contingent_coverage": true,
+            "uuid": "74a9226e-04c8-4d84-8ca2-ad40b3536bf4",
+            "commodity": {
+                "id": 12,
+                "created_at": null,
+                "updated_at": null,
+                "deleted_at": null,
+                "name": "Containers",
+                "requires_review_binder_parameters": 0,
+                "requires_review_stock": 0,
+                "requires_review_transit": 0
+            },
+            "containers": [
+                {
+                    "id": 49,
+                    "created_at": "2022-02-01T14:33:56.000000Z",
+                    "updated_at": "2022-02-01T14:33:56.000000Z",
+                    "transit_id": 36,
+                    "average_value": 1250
+                }
+            ],
+            "conveyances": [
+                {
+                    "id": 48,
+                    "created_at": "2022-02-01T14:33:56.000000Z",
+                    "updated_at": "2022-02-01T14:33:56.000000Z",
+                    "transit_id": 36,
+                    "conveyance_id": 4,
+                    "max_value": 12500,
+                    "average_value": 7500,
+                    "utilisation": 100,
+                    "conveyance": {
+                        "id": 4,
+                        "created_at": null,
+                        "updated_at": null,
+                        "name": "FedEx/UPS etc Common Carrier"
+                    }
+                }
+            ],
+            "insurance_type": {
+                "id": 7,
+                "created_at": null,
+                "updated_at": null,
+                "name": "Air Worldwide",
+                "contingent": 1
+            },
+            "packing": [
+                {
+                    "id": 49,
+                    "created_at": "2022-02-01T14:33:56.000000Z",
+                    "updated_at": "2022-02-01T14:33:56.000000Z",
+                    "transit_id": 36,
+                    "packing_id": 2,
+                    "utilisation": 100,
+                    "packing": {
+                        "id": 2,
+                        "created_at": null,
+                        "updated_at": null,
+                        "deleted_at": null,
+                        "name": "LCL"
+                    }
+                }
+            ],
+            "shipping": [
+                {
+                    "id": 49,
+                    "created_at": "2022-02-01T14:33:56.000000Z",
+                    "updated_at": "2022-02-01T14:33:56.000000Z",
+                    "transit_id": 36,
+                    "country_id": 6,
+                    "utilisation": 100,
+                    "country": {
+                        "id": 6,
+                        "created_at": null,
+                        "updated_at": null,
+                        "iso_code": null,
+                        "name": "Asia Pacific",
+                        "region": 1
+                    }
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "created_at": "2022-02-01T14:33:56.000000Z",
+            "updated_at": "2022-02-01T14:33:56.000000Z",
+            "morphable_id": 8,
+            "morphable_type": "submission",
+            "type": "domestic",
+            "insurance_type_id": 3,
+            "commodity_id": 4,
+            "annual_value": 75000,
+            "contingent_coverage": false,
+            "uuid": "692b3b32-9b96-4db4-b14d-069e98546727",
+            "commodity": {
+                "id": 4,
+                "created_at": null,
+                "updated_at": null,
+                "deleted_at": null,
+                "name": "Building Materials & DIY Goods",
+                "requires_review_binder_parameters": 0,
+                "requires_review_stock": 0,
+                "requires_review_transit": 0
+            },
+            "containers": [
+                {
+                    "id": 50,
+                    "created_at": "2022-02-01T14:33:56.000000Z",
+                    "updated_at": "2022-02-01T14:33:56.000000Z",
+                    "transit_id": 37,
+                    "average_value": 1010
+                }
+            ],
+            "conveyances": [
+                {
+                    "id": 49,
+                    "created_at": "2022-02-01T14:33:56.000000Z",
+                    "updated_at": "2022-02-01T14:33:56.000000Z",
+                    "transit_id": 37,
+                    "conveyance_id": 5,
+                    "max_value": 12540,
+                    "average_value": 5500,
+                    "utilisation": 100,
+                    "conveyance": {
+                        "id": 5,
+                        "created_at": null,
+                        "updated_at": null,
+                        "name": "Vessel"
+                    }
+                }
+            ],
+            "insurance_type": {
+                "id": 3,
+                "created_at": null,
+                "updated_at": null,
+                "name": "Ocean Worldwide",
+                "contingent": 0
+            },
+            "packing": [
+                {
+                    "id": 50,
+                    "created_at": "2022-02-01T14:33:56.000000Z",
+                    "updated_at": "2022-02-01T14:33:56.000000Z",
+                    "transit_id": 37,
+                    "packing_id": 5,
+                    "utilisation": 100,
+                    "packing": {
+                        "id": 5,
+                        "created_at": null,
+                        "updated_at": null,
+                        "deleted_at": null,
+                        "name": "Bogged"
+                    }
+                }
+            ],
+            "shipping": [
+                {
+                    "id": 50,
+                    "created_at": "2022-02-01T14:33:56.000000Z",
+                    "updated_at": "2022-02-01T14:33:56.000000Z",
+                    "transit_id": 37,
+                    "country_id": 5,
+                    "utilisation": 100,
+                    "country": {
+                        "id": 5,
+                        "created_at": null,
+                        "updated_at": null,
+                        "iso_code": null,
+                        "name": "Indian sub-continent",
+                        "region": 1
+                    }
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "created_at": "2022-02-01T14:33:56.000000Z",
+            "updated_at": "2022-02-01T14:33:56.000000Z",
+            "morphable_id": 8,
+            "morphable_type": "submission",
+            "type": "domestic",
+            "insurance_type_id": 4,
+            "commodity_id": 19,
+            "annual_value": 75000,
+            "contingent_coverage": false,
+            "uuid": "d00c436e-d522-42a5-841d-46a66980a790",
+            "commodity": {
+                "id": 19,
+                "created_at": null,
+                "updated_at": null,
+                "deleted_at": null,
+                "name": "Fertilizer",
+                "requires_review_binder_parameters": 1,
+                "requires_review_stock": 1,
+                "requires_review_transit": 1
+            },
+            "containers": [
+                {
+                    "id": 52,
+                    "created_at": "2022-02-01T14:35:26.000000Z",
+                    "updated_at": "2022-02-01T14:35:26.000000Z",
+                    "transit_id": 38,
+                    "average_value": 10000
+                }
+            ],
+            "conveyances": [
+                {
+                    "id": 51,
+                    "created_at": "2022-02-01T14:35:26.000000Z",
+                    "updated_at": "2022-02-01T14:35:26.000000Z",
+                    "transit_id": 38,
+                    "conveyance_id": 4,
+                    "max_value": 50000,
+                    "average_value": 25000,
+                    "utilisation": 100,
+                    "conveyance": {
+                        "id": 4,
+                        "created_at": null,
+                        "updated_at": null,
+                        "name": "FedEx/UPS etc Common Carrier"
+                    }
+                }
+            ],
+            "insurance_type": {
+                "id": 4,
+                "created_at": null,
+                "updated_at": null,
+                "name": "Air Worldwide",
+                "contingent": 0
+            },
+            "packing": [
+                {
+                    "id": 52,
+                    "created_at": "2022-02-01T14:35:26.000000Z",
+                    "updated_at": "2022-02-01T14:35:26.000000Z",
+                    "transit_id": 38,
+                    "packing_id": 5,
+                    "utilisation": 100,
+                    "packing": {
+                        "id": 5,
+                        "created_at": null,
+                        "updated_at": null,
+                        "deleted_at": null,
+                        "name": "Bogged"
+                    }
+                }
+            ],
+            "shipping": [
+                {
+                    "id": 52,
+                    "created_at": "2022-02-01T14:35:26.000000Z",
+                    "updated_at": "2022-02-01T14:35:26.000000Z",
+                    "transit_id": 38,
+                    "country_id": 3,
+                    "utilisation": 50,
+                    "country": {
+                        "id": 3,
+                        "created_at": null,
+                        "updated_at": null,
+                        "iso_code": "GB",
+                        "name": "United Kingdom",
+                        "region": 0
+                    }
+                },
+                {
+                    "id": 53,
+                    "created_at": "2022-02-01T14:35:26.000000Z",
+                    "updated_at": "2022-02-01T14:35:26.000000Z",
+                    "transit_id": 38,
+                    "country_id": 6,
+                    "utilisation": 50,
+                    "country": {
+                        "id": 6,
+                        "created_at": null,
+                        "updated_at": null,
+                        "iso_code": null,
+                        "name": "Asia Pacific",
+                        "region": 1
+                    }
+                }
+            ]
+        }
+    ],
+    "sublimits": [
+        {
+            "id": 130,
+            "created_at": "2022-02-01T14:39:17.000000Z",
+            "updated_at": "2022-02-01T14:39:17.000000Z",
+            "morphable_type": "submission",
+            "morphable_id": 8,
+            "exposure_type": "transit",
+            "contract_type": "limit",
+            "sublimit_type": "conveyance",
+            "sublimit_description": "Barge, Truck/Rail",
+            "sublimit_amount": "10000",
+            "deductible_type": null,
+            "deductible_flat_amount": null,
+            "deductible_percentage": null,
+            "deductible_basis_value": null,
+            "subject_to_minimum": null,
+            "uuid": "a2a63948-9670-4795-837e-f59b8ff246b6"
+        },
+        {
+            "id": 131,
+            "created_at": "2022-02-01T14:39:17.000000Z",
+            "updated_at": "2022-02-01T14:39:17.000000Z",
+            "morphable_type": "submission",
+            "morphable_id": 8,
+            "exposure_type": "storage",
+            "contract_type": "deductible",
+            "sublimit_type": "peril",
+            "sublimit_description": "test peril storage",
+            "sublimit_amount": null,
+            "deductible_type": "flat deductible",
+            "deductible_flat_amount": "10000.00000",
+            "deductible_percentage": null,
+            "deductible_basis_value": null,
+            "subject_to_minimum": null,
+            "uuid": "80fd500a-f6ea-4bc7-b8e9-089f15715d60"
+        }
+    ],
+    "documents": [],
+    "firm_orders": [
+        {
+            "id": 8,
+            "created_at": "2022-02-01T14:33:55.000000Z",
+            "updated_at": "2022-02-01T14:33:55.000000Z",
+            "submission_id": 8,
+            "status": "reviewing"
+        }
+    ]
+}
